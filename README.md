@@ -1,0 +1,2 @@
+# autoroute
+Représenter une autoroute 2 chemins de mêmes sens par deux vecteur : 1 la partie ou il y a des voitures et 0 la partie libre(sans vooture) toutes les voitures sont supposes avoir une vitesse constante. Une voiture est pressé, donc on compte combien de fois le voiture pressé doit changer de chemin pour parcourir tout l'autoroute. On marque a par 2 le point de départ de cette voiture dans le vecteur 
